@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Akash Masih]!
+# Hi there 👋, I'm Akash Masih
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in JavaScript, Node.js, React.js, and Next.js. I love building efficient and scalable web applications, contributing to open-source projects, and collaborating with the developer community.
 
@@ -15,16 +15,11 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in JavaScr
 
 ## 🔧 Projects & Contributions
 
-Here are some of my favorite projects that I've worked on:
+Here are some of my favorite projects that I've Contributed to:
 
-### [Project 1](https://github.com/yourusername/project1)
-Description of Project 1. What does it do? What technologies does it use? Why is it interesting?
+### [Project 1](https://github.com/themesberg/flowbite-react)
+flowbite-react is an open-source collection of UI components, built in React, with utility classes from Tailwind CSS that you can use as a starting point for user interfaces and websites.
 
-### [Project 2](https://github.com/yourusername/project2)
-Description of Project 2. What does it do? What technologies does it use? Why is it interesting?
-
-### [Project 3](https://github.com/yourusername/project3)
-Description of Project 3. What does it do? What technologies does it use? Why is it interesting?
 
 ## 📈 GitHub Stats
 
@@ -33,9 +28,8 @@ Description of Project 3. What does it do? What technologies does it use? Why is
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [akash](https://www.linkedin.com/in/akash-masih-9a3074194)
+- X: [@akashmasih_](https://x.com/akashmasih_)
 
 ## 🤝 Contributing
 

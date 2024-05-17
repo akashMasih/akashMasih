@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in JavaScr
 
 Here are some of my favorite projects that I've Contributed to:
 
-### [Project 1](https://github.com/themesberg/flowbite-react)
+### [flowbite-react](https://github.com/themesberg/flowbite-react)
 flowbite-react is an open-source collection of UI components, built in React, with utility classes from Tailwind CSS that you can use as a starting point for user interfaces and websites.
 
 
@@ -28,7 +28,7 @@ flowbite-react is an open-source collection of UI components, built in React, wi
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [akash](https://www.linkedin.com/in/akash-masih-9a3074194)
+- LinkedIn: [akash Masih](https://www.linkedin.com/in/akash-masih-9a3074194)
 - X: [@akashmasih_](https://x.com/akashmasih_)
 
 ## 🤝 Contributing
@@ -37,7 +37,7 @@ I'm always open to contributions and collaborations! Feel free to open issues, s
 
 ## 📫 How to Reach Me
 
-You can reach me via email at yourname@example.com or through any of the social media links above.
+You can reach me via email at akashmasih1522@gmail.com or through any of the social media links above.
 
 ---
 
